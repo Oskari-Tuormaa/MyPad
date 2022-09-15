@@ -1,3 +1,5 @@
 
 mypad_pcb/mypad_pcb-backups
 .~lock.partslist.ods#
+*.bib.bak
+*.bib.sav.tmp
