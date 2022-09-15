@@ -1,4 +1,4 @@
-21137754580698947
+21141081126703052
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -514,6 +514,13 @@ Button_Switch_Keyboard
 SW_Matias_ISOEnter
 Matias/ALPS keyswitch, ISO Enter, http://matias.ca/switches/
 Matias ALPS keyswitch ISO enter
+0
+2
+2
+Button_Switch_SMD
+DTSM31N_SMD_Tact_Switch_4.3mm
+
+
 0
 2
 2
@@ -1546,6 +1553,13 @@ SPST Tactile Switch
 0
 4
 2
+Button_Switch_THT
+ESP_SPDT_Slide_Switch
+
+
+0
+3
+3
 Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
